@@ -1,3 +1,8 @@
 old_weights_pkl
 _pycache_
 exp/gnn_models_notebook/logs
+exp/gnn_models_notebook/.vector_cache
+raw_data/stitch/chemical_chemical.links.v5.0.tsv.gz
+raw_data/drugbank/drugbank_all_full_database.xml.zip
+exp/gnn_models_notebook/saved_models
+raw_data/drugbank/drugbank_all_target_polypeptide_sequences.fasta.zip
