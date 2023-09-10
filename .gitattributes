@@ -1,3 +1,0 @@
-pretrained_models/mol2vec/model_300dim.pkl filter=lfs diff=lfs merge=lfs -text
-raw_data/stitch/chemical_chemical.links.v5.0.tsv/chemical_chemical.links.v5.0.tsv filter=lfs diff=lfs merge=lfs -text
-raw_data/drugbank/drugbank_all_full_database.xml filter=lfs diff=lfs merge=lfs -text
