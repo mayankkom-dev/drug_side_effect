@@ -9,6 +9,7 @@ raw_data/drugbank/drugbank_all_target_polypeptide_sequences.fasta.zip
 pretrained_models/mol2vec/model_300dim.pkl
 raw_data/stitch/chemical_chemical.links.v5.0.tsv/chemical_chemical.links.v5.0.tsv
 raw_data/drugbank/drugbank_all_full_database.xml
+raw_data/drugbank/full database.xml
 exp/gnn_models_notebook/*.pt
 raw_data/stitch/chemical_chemical.links.detailed.v5.0.tsv.gz
-raw_data/stitch/chemical_chemical.links.detailed.v5.0.tsv/chemical_chemical.links.detailed.v5.0.tsv
+raw_data/stitch/chemical_chemical.links.detailed.v5.0.tsv
